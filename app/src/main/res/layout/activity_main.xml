@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/blob3" />
+        app:srcCompat="@drawable/blob4" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -32,6 +32,7 @@
         android:id="@+id/imageView2"
         android:layout_width="128dp"
         android:layout_height="107dp"
+        android:background="#008E1818"
         android:baselineAlignBottom="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -45,6 +46,7 @@
         android:id="@+id/imageView4"
         android:layout_width="65dp"
         android:layout_height="65dp"
+        android:background="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="@+id/imageView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.2"
@@ -56,6 +58,7 @@
         android:id="@+id/imageView6"
         android:layout_width="65dp"
         android:layout_height="65dp"
+        android:background="#00979393"
         app:layout_constraintBottom_toBottomOf="@+id/imageView2"
         app:layout_constraintEnd_toStartOf="@+id/imageView2"
         app:layout_constraintHorizontal_bias="0.8"
@@ -68,6 +71,7 @@
         android:layout_width="246dp"
         android:layout_height="37dp"
         android:layout_marginTop="48dp"
+        android:background="#00FFFFFF"
         android:fontFamily="@font/poppins_semibold"
         android:text="It's On Again"
         android:textSize="24sp"
@@ -81,6 +85,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
+        android:background="#00FFFFFF"
         android:fontFamily="@font/poppins_light"
         android:text="Alicia Keys"
         android:textSize="16sp"
@@ -94,6 +99,7 @@
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="335dp"
         android:layout_height="108dp"
+        android:background="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.368"
